@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1571159204 source:d:\batman\2ano\aulased\2sem\versao0\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcao.h"
+
+1571159204 d:\batman\2ano\aulased\2sem\versao0\funcao.h
+
