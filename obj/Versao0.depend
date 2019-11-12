@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1571158152 source:d:\batman\2ano\aulased\2sem\forca2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcao.h"
+
+1571158138 d:\batman\2ano\aulased\2sem\forca2.0\funcao.h
+
+1571158204 source:d:\batman\2ano\aulased\2sem\forca2.0\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcao.h"
+
+1572977618 source:d:\batman\2ano\aulased\versao0\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funcao.h"
+
+1572976848 d:\batman\2ano\aulased\versao0\funcao.h
+
+1572977622 source:d:\batman\2ano\aulased\versao0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcao.h"
+
+1572976582 d:\batman\2ano\aulased\versao0\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funcao.h"
+
+1573585052 source:d:\batman\2ano\aulased\versao3\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funcao.h"
+
+1573583782 d:\batman\2ano\aulased\versao3\funcao.h
+
+1573584014 source:d:\batman\2ano\aulased\versao3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcao.h"
+
